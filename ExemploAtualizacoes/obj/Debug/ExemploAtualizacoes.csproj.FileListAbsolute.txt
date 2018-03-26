@@ -1,0 +1,8 @@
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploAtualizacoes\ExemploAtualizacoes\bin\Debug\ExemploAtualizacoes.exe.config
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploAtualizacoes\ExemploAtualizacoes\bin\Debug\ExemploAtualizacoes.exe
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploAtualizacoes\ExemploAtualizacoes\bin\Debug\ExemploAtualizacoes.pdb
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploAtualizacoes\ExemploAtualizacoes\bin\Debug\EntityFramework.dll
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploAtualizacoes\ExemploAtualizacoes\bin\Debug\EntityFramework.xml
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploAtualizacoes\ExemploAtualizacoes\obj\Debug\ExemploAtualizacoes.csprojResolveAssemblyReference.cache
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploAtualizacoes\ExemploAtualizacoes\obj\Debug\ExemploAtualizacoes.exe
+C:\Users\lucas.schoch\Desktop\Entity Framework\Demonstrações\ExemploAtualizacoes\ExemploAtualizacoes\ExemploAtualizacoes\obj\Debug\ExemploAtualizacoes.pdb
